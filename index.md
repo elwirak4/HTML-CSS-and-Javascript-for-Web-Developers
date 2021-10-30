@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my Coding Assignment
 
-You can use the [editor on GitHub](https://github.com/elwirak4/HTML-CSS-and-Javascript-for-Web-Developers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Module 2 Solution [link](https://elwirak4.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module2-solution/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Module 3 Solution [link](https://elwirak4.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module3-solution/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Module 4 Solution [link](https://elwirak4.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module4-solution/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elwirak4/HTML-CSS-and-Javascript-for-Web-Developers/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All code is on the branch gh-pages
