@@ -1,0 +1,161 @@
+/*HEADER*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  color: black;
+  background-color: white;
+  font-family: "Comic Sans Ms", italic, sans-serif;
+}
+
+#nav-header {
+  background-color: rgb(192, 192, 192);;
+  border: none;
+}
+
+/* .container {
+	margin: 0;
+	padding: 0;
+} */
+
+#logo {
+  font-size: 2em;
+  font-weight: bold;
+  color: black;
+}
+
+.navbar-toggle{
+	border: 3px solid black;
+	margin-right: 25px;
+}
+
+/* .navbar-toggle:hover, .navbar-toggle:active {
+  border: 3px solid red;
+} */
+
+.icon-bar{
+  border: 2px solid black;
+	background-color: black;
+}
+
+/* .icon-bar:hover, .icon-bar:active {
+  border: 2px solid red;
+  background-color: red;
+} */
+
+#navbarNav {
+  background-color: rgb(192, 192, 192);;
+  /* border: 1px solid black; */
+}
+
+ul.nav {
+  background-color: rgb(192, 192, 192);;
+  
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+	/* box-sizing: border-box; */
+	width: 100%;
+}
+
+a.menu-item{
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 1.2em;
+  color: black;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid black;
+	display: block;
+}
+
+a.menu-item:hover {
+	color: red;
+  /* background-color: grey; */
+}
+
+  
+  
+  .navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
+ 
+  /* END HEADER */
+  
+  /* HOME PAGE */
+  h1 {
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+
+  .narrow {
+    margin: 20px;
+	width: auto;
+	height: auto;
+	color: black;
+	background-color: rgb(192, 192, 192);
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	padding: 20px;
+  }
+  
+  /* END HOME PAGE */
+  
+  /********** Large devices only **********/
+  @media (min-width: 1200px) {
+    
+  }
+  
+  /********** Medium devices only **********/
+  @media (min-width: 992px) and (max-width: 1199px) {
+    /* Header */
+    
+    /* End Header */
+  
+    /* Home Page */
+    
+    /* End Home Page */
+  }
+  
+  /********** Small devices only **********/
+  @media (min-width: 768px) and (max-width: 991px) {
+    /* Header */
+
+    /* #navbarNav {
+      background-color: white;
+    } */
+
+    
+    /* Home Page */
+    
+    /* End Home Page */
+  
+  }
+  
+  /********** Extra small devices only **********/
+  @media (max-width: 767px) {
+    /* Header */
+
+    #navbarNav {
+      background-color: white;
+    }
+   
+    /* End Header */
+  
+    /* Home Page */
+    
+  
+  }
